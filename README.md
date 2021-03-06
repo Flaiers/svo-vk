@@ -1,4 +1,4 @@
-# [Vkontakte HR-bot for Sheremetevo](https://t.me/SheremetyevoHR_bot)
+# Vkontakte HR-bot for Sheremetevo
 
 This is an HR platform based on vkontakte frontend for new airport employees
 
