@@ -2,4 +2,6 @@
 
 This is an HR platform based on vkontakte frontend for new airport employees
 
-![Photo](https://simfopol.ru/images/sheremetyevo_airport_logo.jpg)
+<a href="https://www.svo.aero/">
+    <img src="https://simfopol.ru/images/sheremetyevo_airport_logo.jpg" width="555">
+</a>
